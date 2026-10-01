@@ -6,7 +6,7 @@ I'm fascinated by the intersection of mathematics, physics, and computer science
 ## Technologies
 
 **Languages**
-Python · Rust · C · C++ · Java · JavaScript · TypeScript
+Python · C · C++ · JavaScript · TypeScript
 
 **Web**
 React · HTML5 · CSS3 · Node.js
